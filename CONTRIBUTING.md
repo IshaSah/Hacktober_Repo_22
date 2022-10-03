@@ -550,4 +550,12 @@ INSTITUTE/COMPANY :NA<br>
 DOMAIN/LANGUGAE :Python<br>
 
 ---
+---
+
+NAME : Isha Sah <br>
+GITHUB : [IshaSah](https://github.com/IshaSah)<br>
+INSTITUTE/COMPANY : SRM Institute of Science and Technology<br>
+DOMAIN/LANGUGAE : Python/Data Science<br>
+
+---
 
